@@ -12,7 +12,7 @@ namespace ITacademy.CSharp.ConsoleApp
         {
             string line;
 
-            // Read user input until it not null or an empty string
+            // Read user input until it's not null or an empty string
             while ((line = Console.ReadLine()) != null && line.Length != 0)
             {
                 line = "x:" + line.Replace(",", " y:");
