@@ -1,0 +1,16 @@
+﻿<Window x:Class="ITacademy.SCharp.WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITacademy.SCharp.WpfApplication"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="330" Width="420">
+    <Grid>
+        <TextBox x:Name="testInput" HorizontalAlignment="Left" Margin="12,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="302" Height="28"/>
+        <TextBlock x:Name="formattedText" Margin="14,50,12,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="238"/>
+        <Button x:Name="testButton" Content="Format Data" Margin="320,17,12,0" VerticalAlignment="Top" Click="testButton_Click"/>
+
+    </Grid>
+</Window>
