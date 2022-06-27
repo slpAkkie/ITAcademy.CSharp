@@ -22,7 +22,7 @@ namespace ITacademy.CSharp.ConsoleApp
 
             // Doesn't close the console until the user press a key
             Console.WriteLine("\nPress any key to close...");
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
