@@ -10,8 +10,17 @@ namespace ITacademy.CSharp.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string line;
 
+            // Read user input until it not null or an empty string
+            while ((line = Console.ReadLine()) != null && line.Length != 0)
+            {
+                line = "x:" + line.Replace(",", " y:");
+
+                Console.WriteLine(line);
+            }
+
+            // Doesn't close the console until the user press a key
             Console.WriteLine("\nPress any key to close...");
             Console.ReadKey();
         }
