@@ -1,7 +1,7 @@
-﻿<Application x:Class="ITacademy.SCharp.WpfApplication.App"
+﻿<Application x:Class="ITacademy.CSharp.WpfApplication.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ITacademy.SCharp.WpfApplication"
+             xmlns:local="clr-namespace:ITacademy.CSharp.WpfApplication"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

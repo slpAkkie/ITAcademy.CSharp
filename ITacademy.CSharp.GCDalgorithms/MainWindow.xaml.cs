@@ -13,7 +13,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Diagnostics;
 
-namespace ITacademy.CSharp.GCDalgorithms
+namespace ITacademy.CSharp.GCDAlgorithms
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

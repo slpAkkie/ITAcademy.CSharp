@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 
-namespace ITacademy.CSharp.GCDalgorithms
+namespace ITacademy.CSharp.GCDAlgorithms
 {
-    static class GCDAlgorithms
+    public static class GCDAlgorithms
     {
         /// <summary>
         /// Find the GCD for 2 numbers with Euclid method
