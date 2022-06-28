@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.SCharp.WpfApplication", "ITacademy.SCharp.WpfApplication\ITacademy.SCharp.WpfApplication.csproj", "{0E3A7417-A218-47C6-882A-51DE2FA22379}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.SquareRoots", "ITacademy.CSharp.SquareRoots\ITacademy.CSharp.SquareRoots.csproj", "{7BEBD6BB-88F9-467A-A914-3A7DE072F47F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0E3A7417-A218-47C6-882A-51DE2FA22379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E3A7417-A218-47C6-882A-51DE2FA22379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E3A7417-A218-47C6-882A-51DE2FA22379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEBD6BB-88F9-467A-A914-3A7DE072F47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEBD6BB-88F9-467A-A914-3A7DE072F47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEBD6BB-88F9-467A-A914-3A7DE072F47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEBD6BB-88F9-467A-A914-3A7DE072F47F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
