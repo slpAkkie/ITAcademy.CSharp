@@ -28,7 +28,7 @@ namespace ITacademy.CSharp.GCDAlgorithms
         /// <summary>
         /// Do the GCD calculations
         /// </summary>
-4        /// <param name="sender"></param>
+        /// <param name="sender"></param>
         /// <param name="e"></param>
         private void FindGCD_Click(object sender, RoutedEventArgs e)
         {
