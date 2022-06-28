@@ -13,9 +13,9 @@
         <TextBox Height="23" HorizontalAlignment="Left" Margin="12,128,0,0" Name="integer5" Text="0" VerticalAlignment="Top" Width="120" />
         <StackPanel Height="305" HorizontalAlignment="Left" Margin="202,12,0,0" Name="chartCanvas" VerticalAlignment="Top" Width="280" Orientation="Vertical">
          </StackPanel>
-        <Button Content="Find GCD (3 Integers)" Height="23" HorizontalAlignment="Left" Margin="12,242,0,0" Name="findGCD3" VerticalAlignment="Top" Width="161"  Click="FindGCD_Click"/>
-        <Button Content="Find GCD (4 Integers)" Height="23" HorizontalAlignment="Left" Margin="12,268,0,0" Name="findGCD4" VerticalAlignment="Top" Width="161"  Click="FindGCD_Click" />
-        <Button Content="Find GCD (5 Integers)" Height="23" HorizontalAlignment="Left" Margin="12,294,0,0" Name="findGCD5" VerticalAlignment="Top" Width="161"  Click="FindGCD_Click" />
+        <Button Content="Find GCD (3 Integers)" Height="23" HorizontalAlignment="Left" Margin="12,242,0,0" Name="findGCD3" VerticalAlignment="Top" Width="161" Click="FindGCD_Click"/>
+        <Button Content="Find GCD (4 Integers)" Height="23" HorizontalAlignment="Left" Margin="12,268,0,0" Name="findGCD4" VerticalAlignment="Top" Width="161" Click="FindGCD_Click" />
+        <Button Content="Find GCD (5 Integers)" Height="23" HorizontalAlignment="Left" Margin="12,294,0,0" Name="findGCD5" VerticalAlignment="Top" Width="161" Click="FindGCD_Click" />
         <ListBox Height="101" HorizontalAlignment="Left" Margin="203,344,0,0" Name="euclidColor" VerticalAlignment="Top" Width="74" SelectedIndex="0">
             <ListBoxItem Content="Red" />
             <ListBoxItem Content="Green" />

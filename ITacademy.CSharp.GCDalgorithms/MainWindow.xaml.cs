@@ -28,15 +28,11 @@ namespace ITacademy.CSharp.GCDAlgorithms
         /// <summary>
         /// Do the GCD calculations
         /// </summary>
-        /// <param name="sender"></param>
+4        /// <param name="sender"></param>
         /// <param name="e"></param>
         private void FindGCD_Click(object sender, RoutedEventArgs e)
         {
-            int firstNumber;
-            int secondNumber;
-            int thirdNumber;
-            int fourthNumber;
-            int fifthNumber;
+            int firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber;
 
             if (!GetPostiveIntegerFromTextBox(integer1, out firstNumber)) return;
             if (!GetPostiveIntegerFromTextBox(integer2, out secondNumber)) return;
@@ -45,13 +41,18 @@ namespace ITacademy.CSharp.GCDAlgorithms
             if (!GetPostiveIntegerFromTextBox(integer5, out fifthNumber)) return;
 
 
+            string euclidResult = "Euclid: ";
             // Display results 
             if (sender == findGCD) // Euclid for two integers
-            {
-                resultEuclid.Content = $"Euclid: {GCDAlgorithms.FindGCDEuclid(firstNumber, secondNumber)}";
-            }
+                euclidResult += GCDAlgorithms.FindGCDEuclid(firstNumber, secondNumber).ToString();
+            else if (sender == findGCD3) // Euclid for three integers
+                euclidResult += GCDAlgorithms.FindGCDEuclid(firstNumber, secondNumber, thirdNumber).ToString();
+            else if (sender == findGCD4) // Euclid for four integers
+                euclidResult += GCDAlgorithms.FindGCDEuclid(firstNumber, secondNumber, thirdNumber, fourthNumber).ToString();
+            else if (sender == findGCD5) // Euclid for five integers
+                euclidResult += GCDAlgorithms.FindGCDEuclid(firstNumber, secondNumber, thirdNumber, fifthNumber).ToString();
 
-
+            resultEuclid.Content = euclidResult;
         }
 
         /// <summary>

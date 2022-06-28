@@ -26,5 +26,26 @@ namespace ITacademy.CSharp.GCDAlgorithms
 
             return a;
         }
+
+        public static int FindGCDEuclid(int a, int b, int c)
+        {
+            return FindGCDEuclid(
+                    FindGCDEuclid(a, b), c);
+        }
+
+        public static int FindGCDEuclid(int a, int b, int c, int d)
+        {
+            return FindGCDEuclid(
+                    FindGCDEuclid(
+                        FindGCDEuclid(a, b), c), d);
+        }
+
+        public static int FindGCDEuclid(int a, int b, int c, int d, int e)
+        {
+            return FindGCDEuclid(
+                    FindGCDEuclid(
+                        FindGCDEuclid(
+                            FindGCDEuclid(a, b), c), d), e);
+        }
     }
 }
