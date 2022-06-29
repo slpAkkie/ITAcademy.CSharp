@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.Failsafe", "ITacademy.CSharp.Failsafe\ITacademy.CSharp.Failsafe.csproj", "{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.SwitchDevice", "ITacademy.CSharp.SwitchDevice\ITacademy.CSharp.SwitchDevice.csproj", "{450DD0D1-3A08-4A32-A374-5503C8DB63A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450DD0D1-3A08-4A32-A374-5503C8DB63A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450DD0D1-3A08-4A32-A374-5503C8DB63A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450DD0D1-3A08-4A32-A374-5503C8DB63A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450DD0D1-3A08-4A32-A374-5503C8DB63A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5C51B4-2D73-46A9-826F-C43D4CF0F3E3}
+	EndGlobalSection
+EndGlobal
