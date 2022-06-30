@@ -95,7 +95,7 @@ namespace ITAcademy.CSharp.MeasuringDevice
                 while (true)
                 {
                     System.Threading.Thread.Sleep(timer.Next(1000, 5000));
-                    dataCaptured[x] = controller.TakeMeasurement();
+                    dataCaptured[x] = controller != null ? controller.TakeMeasurement() : dataCaptured[x];
                     mostRecentMeasure = dataCaptured[x];
 
                     if (loggingFileWriter != null)
