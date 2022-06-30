@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.DeviceController", "ITAcademy.CSharp.DeviceController\ITAcademy.CSharp.DeviceController.csproj", "{4E9318B3-1E25-401E-BD27-708AD722A900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.MeasuringDevice", "ITAcademy.CSharp.MeasuringDevice\ITAcademy.CSharp.MeasuringDevice.csproj", "{B93DC426-5A86-461F-A068-8D143F7A903F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9318B3-1E25-401E-BD27-708AD722A900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9318B3-1E25-401E-BD27-708AD722A900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9318B3-1E25-401E-BD27-708AD722A900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9318B3-1E25-401E-BD27-708AD722A900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93DC426-5A86-461F-A068-8D143F7A903F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93DC426-5A86-461F-A068-8D143F7A903F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93DC426-5A86-461F-A068-8D143F7A903F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93DC426-5A86-461F-A068-8D143F7A903F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A515425-B298-49B0-AA6B-44704BF6132E}
+	EndGlobalSection
+EndGlobal
