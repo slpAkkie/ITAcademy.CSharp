@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.MeasuringD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.DeviceController", "ITAcademy.CSharp.DeviceController\ITAcademy.CSharp.DeviceController.csproj", "{1B272A1F-62DD-4E4E-B644-3660F35D36C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.TestHarness", "ITAcademy.CSharp.TestHarness\ITAcademy.CSharp.TestHarness.csproj", "{D7978836-B806-4F18-B618-E12638B156D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B272A1F-62DD-4E4E-B644-3660F35D36C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B272A1F-62DD-4E4E-B644-3660F35D36C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B272A1F-62DD-4E4E-B644-3660F35D36C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7978836-B806-4F18-B618-E12638B156D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7978836-B806-4F18-B618-E12638B156D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7978836-B806-4F18-B618-E12638B156D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7978836-B806-4F18-B618-E12638B156D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,7 @@ using System.IO;
 
 namespace MeasuringDevice
 {
-    public abstract class MeasureDataDevice : IMeasuringDeviceWithProperties, ILoggingMeasuringDevice, IDisposable
+    public abstract class MeasureDataDevice : IMeasuringDeviceWithProperties, IDisposable
     {
         /// <summary>
         /// Converts the raw data collected by the measuring device into a metric value.
