@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.StressTestResult", "ITAcademy.CSharp.StressTestResult\ITAcademy.CSharp.StressTestResult.csproj", "{87EF1C8D-8BD7-4115-BF13-691CDAC60FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EF1C8D-8BD7-4115-BF13-691CDAC60FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EF1C8D-8BD7-4115-BF13-691CDAC60FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EF1C8D-8BD7-4115-BF13-691CDAC60FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EF1C8D-8BD7-4115-BF13-691CDAC60FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2955FF-B88A-4BC8-B775-87B96DB4C0FD}
+	EndGlobalSection
+EndGlobal
