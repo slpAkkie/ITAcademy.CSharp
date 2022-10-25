@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.SquareRoots.Properties
+namespace ITAcademy.CSharp.SquareRoots.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ITacademy.CSharp.SquareRoots.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITacademy.CSharp.SquareRoots.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITAcademy.CSharp.SquareRoots.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

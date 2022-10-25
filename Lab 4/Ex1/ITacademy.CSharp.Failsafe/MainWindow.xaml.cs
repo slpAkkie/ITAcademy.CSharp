@@ -11,9 +11,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using ITacademy.CSharp.SwitchDevice;
+using ITAcademy.CSharp.SwitchDevice;
 
-namespace ITacademy.CSharp.Failsafe
+namespace ITAcademy.CSharp.Failsafe
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

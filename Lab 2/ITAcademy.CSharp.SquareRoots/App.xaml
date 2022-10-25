@@ -1,9 +1,9 @@
-﻿<Application x:Class="ITacademy.CSharp.SquareRoots.App"
+﻿<Application x:Class="ITAcademy.CSharp.SquareRoots.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ITacademy.CSharp.SquareRoots"
+             xmlns:local="clr-namespace:ITAcademy.CSharp.SquareRoots"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
     </Application.Resources>
 </Application>

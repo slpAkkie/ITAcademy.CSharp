@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.MatrixMultiplication", "ITAcademy.CSharp.MatrixMultiplication\ITAcademy.CSharp.MatrixMultiplication.csproj", "{63AA04AF-1914-4FE6-BBB9-B521EBD20081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.MatrixUnitTestProject", "ITacademy.CSharp.MatrixUnitTestProject\ITacademy.CSharp.MatrixUnitTestProject.csproj", "{6495E971-784F-4AD8-8ECD-82854C0F9B1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.MatrixUnitTestProject", "ITAcademy.CSharp.MatrixUnitTestProject\ITAcademy.CSharp.MatrixUnitTestProject.csproj", "{6495E971-784F-4AD8-8ECD-82854C0F9B1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

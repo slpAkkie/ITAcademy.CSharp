@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F630A4D6-7300-4553-84D3-65987208D81F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ITacademy.CSharp.SquareRoots</RootNamespace>
-    <AssemblyName>ITacademy.CSharp.SquareRoots</AssemblyName>
+    <RootNamespace>ITAcademy.CSharp.SquareRoots</RootNamespace>
+    <AssemblyName>ITAcademy.CSharp.SquareRoots</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

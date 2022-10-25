@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.WpfApplication.Properties
+namespace ITAcademy.CSharp.WpfApplication.Properties
 {
 
 

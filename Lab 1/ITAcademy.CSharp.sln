@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.ConsoleApplication", "ITAcademy.CSharp.ConsoleApplication\ITAcademy.CSharp.ConsoleApplication.csproj", "{C07EA99C-EC77-4296-8C4E-CA0D4A0DF4DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.WpfApplication", "ITacademy.CSharp.WpfApplication\ITacademy.CSharp.WpfApplication.csproj", "{0E3A7417-A218-47C6-882A-51DE2FA22379}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.WpfApplication", "ITAcademy.CSharp.WpfApplication\ITAcademy.CSharp.WpfApplication.csproj", "{0E3A7417-A218-47C6-882A-51DE2FA22379}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

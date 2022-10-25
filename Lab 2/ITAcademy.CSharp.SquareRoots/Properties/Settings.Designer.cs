@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.SquareRoots.Properties
+namespace ITAcademy.CSharp.SquareRoots.Properties
 {
 
 

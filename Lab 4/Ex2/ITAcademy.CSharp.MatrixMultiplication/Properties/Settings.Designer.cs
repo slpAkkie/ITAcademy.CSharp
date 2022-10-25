@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.MatrixMultiplication.Properties
+namespace ITAcademy.CSharp.MatrixMultiplication.Properties
 {
 
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ITacademy.CSharp.SwitchDevice
+namespace ITAcademy.CSharp.SwitchDevice
 {
     /// <summary>
     /// Status of coolant system enumeration

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ITacademy.CSharp.WpfApplication
+namespace ITAcademy.CSharp.WpfApplication
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

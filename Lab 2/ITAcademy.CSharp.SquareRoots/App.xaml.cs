@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ITacademy.CSharp.SquareRoots
+namespace ITAcademy.CSharp.SquareRoots
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

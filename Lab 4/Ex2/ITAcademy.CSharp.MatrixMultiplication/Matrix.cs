@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ITacademy.CSharp.MatrixMultiplication
+namespace ITAcademy.CSharp.MatrixMultiplication
 {
     /// <summary>
     /// Static class to perform a variety of matrix manipulations
@@ -38,7 +38,7 @@ namespace ITacademy.CSharp.MatrixMultiplication
                 {
                     // Initialize the value for the result cell
                     double accumulator = 0;
-                    
+
                     // Iterate over the row in the source matrix multiplying by the value in the column in the second matrix, add to the accumulator
                     for (int cell = 0; cell < m1columns_m2rows; cell++)
                     {

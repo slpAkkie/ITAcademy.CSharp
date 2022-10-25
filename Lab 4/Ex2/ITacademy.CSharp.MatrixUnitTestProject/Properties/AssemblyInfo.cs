@@ -2,11 +2,11 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("ITacademy.CSharp.MatrixUnitTestProject")]
+[assembly: AssemblyTitle("ITAcademy.CSharp.MatrixUnitTestProject")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITacademy.CSharp.MatrixUnitTestProject")]
+[assembly: AssemblyProduct("ITAcademy.CSharp.MatrixUnitTestProject")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

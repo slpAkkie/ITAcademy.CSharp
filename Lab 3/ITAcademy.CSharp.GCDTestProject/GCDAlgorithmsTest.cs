@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ITacademy.CSharp.GreatestCommonDivisor;
+using ITAcademy.CSharp.GreatestCommonDivisor;
 using System;
 
 namespace ITAcademy.CSharp.GCDTestProject

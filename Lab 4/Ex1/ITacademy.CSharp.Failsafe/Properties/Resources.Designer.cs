@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.Failsafe.Properties
+namespace ITAcademy.CSharp.Failsafe.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ITacademy.CSharp.Failsafe.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITacademy.CSharp.Failsafe.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITAcademy.CSharp.Failsafe.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

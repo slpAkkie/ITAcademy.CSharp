@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ITacademy.CSharp.WpfApplication
+namespace ITAcademy.CSharp.WpfApplication
 {
     /// <summary>
     /// WPF application to read and format data

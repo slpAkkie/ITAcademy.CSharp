@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.MatrixMultiplication.Properties
+namespace ITAcademy.CSharp.MatrixMultiplication.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ITacademy.CSharp.MatrixMultiplication.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITacademy.CSharp.MatrixMultiplication.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITAcademy.CSharp.MatrixMultiplication.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

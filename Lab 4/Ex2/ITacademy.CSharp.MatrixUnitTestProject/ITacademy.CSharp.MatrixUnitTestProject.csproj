@@ -8,8 +8,8 @@
     <ProjectGuid>{6495E971-784F-4AD8-8ECD-82854C0F9B1F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ITacademy.CSharp.MatrixUnitTestProject</RootNamespace>
-    <AssemblyName>ITacademy.CSharp.MatrixUnitTestProject</AssemblyName>
+    <RootNamespace>ITAcademy.CSharp.MatrixUnitTestProject</RootNamespace>
+    <AssemblyName>ITAcademy.CSharp.MatrixUnitTestProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ITacademy.CSharp.MatrixMultiplication\ITacademy.CSharp.MatrixMultiplication.csproj">
+    <ProjectReference Include="..\ITAcademy.CSharp.MatrixMultiplication\ITAcademy.CSharp.MatrixMultiplication.csproj">
       <Project>{63aa04af-1914-4fe6-bbb9-b521ebd20081}</Project>
-      <Name>ITacademy.CSharp.MatrixMultiplication</Name>
+      <Name>ITAcademy.CSharp.MatrixMultiplication</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

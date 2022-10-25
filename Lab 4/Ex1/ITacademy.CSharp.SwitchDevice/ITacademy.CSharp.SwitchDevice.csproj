@@ -7,8 +7,8 @@
     <ProjectGuid>{450DD0D1-3A08-4A32-A374-5503C8DB63A0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ITacademy.CSharp.SwitchDevice</RootNamespace>
-    <AssemblyName>ITacademy.CSharp.SwitchDevice</AssemblyName>
+    <RootNamespace>ITAcademy.CSharp.SwitchDevice</RootNamespace>
+    <AssemblyName>ITAcademy.CSharp.SwitchDevice</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

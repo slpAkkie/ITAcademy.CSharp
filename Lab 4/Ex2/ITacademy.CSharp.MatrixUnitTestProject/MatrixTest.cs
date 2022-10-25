@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using ITacademy.CSharp.MatrixMultiplication;
+using ITAcademy.CSharp.MatrixMultiplication;
 
-namespace ITacademy.CSharp.MatrixUnitTestProject
+namespace ITAcademy.CSharp.MatrixUnitTestProject
 {
     /// <summary>
     ///This is a test class for MatrixTest and is intended

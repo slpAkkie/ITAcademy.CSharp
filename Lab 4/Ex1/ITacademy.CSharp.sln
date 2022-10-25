@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.Failsafe", "ITacademy.CSharp.Failsafe\ITacademy.CSharp.Failsafe.csproj", "{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.Failsafe", "ITAcademy.CSharp.Failsafe\ITAcademy.CSharp.Failsafe.csproj", "{33F7D9D7-2424-4B19-A8E9-E7DA0AF33A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITacademy.CSharp.SwitchDevice", "ITacademy.CSharp.SwitchDevice\ITacademy.CSharp.SwitchDevice.csproj", "{450DD0D1-3A08-4A32-A374-5503C8DB63A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.CSharp.SwitchDevice", "ITAcademy.CSharp.SwitchDevice\ITAcademy.CSharp.SwitchDevice.csproj", "{450DD0D1-3A08-4A32-A374-5503C8DB63A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

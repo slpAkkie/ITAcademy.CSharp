@@ -13,7 +13,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Diagnostics;
 
-namespace ITacademy.CSharp.GreatestCommonDivisor
+namespace ITAcademy.CSharp.GreatestCommonDivisor
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -42,7 +42,7 @@ namespace ITacademy.CSharp.GreatestCommonDivisor
 
 
             string euclidResult = "Euclid: ";
-            // Display results 
+            // Display results
             if (sender == findGCD) // Euclid for two integers
                 euclidResult += GCDAlgorithms.FindGCDEuclid(firstNumber, secondNumber).ToString();
             else if (sender == findGCD3) // Euclid for three integers

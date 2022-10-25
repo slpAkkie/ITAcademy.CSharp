@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C07EA99C-EC77-4296-8C4E-CA0D4A0DF4DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ITacademy.CSharp.ConsoleApplication</RootNamespace>
-    <AssemblyName>ITacademy.CSharp.ConsoleApplication</AssemblyName>
+    <RootNamespace>ITAcademy.CSharp.ConsoleApplication</RootNamespace>
+    <AssemblyName>ITAcademy.CSharp.ConsoleApplication</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

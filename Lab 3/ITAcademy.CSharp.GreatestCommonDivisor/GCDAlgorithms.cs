@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 
-namespace ITacademy.CSharp.GreatestCommonDivisor
+namespace ITAcademy.CSharp.GreatestCommonDivisor
 {
     public static class GCDAlgorithms
     {

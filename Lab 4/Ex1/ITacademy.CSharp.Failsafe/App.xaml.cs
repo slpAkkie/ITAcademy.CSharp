@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ITacademy.CSharp.Failsafe
+namespace ITAcademy.CSharp.Failsafe
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITacademy.CSharp.Failsafe.Properties
+namespace ITAcademy.CSharp.Failsafe.Properties
 {
 
 
