@@ -1,7 +1,7 @@
-# ITAcademy.CSharp
+## ITAcademy.CSharp
 
-Repository for tasks from the C# .NET Framework course at GAZ-IT Academy
+Repository for tasks from the C# .NET Framework course at IT Academy
 
-# Author (Student)
+## Author (Student)
 
 Alexandr Shamanin (@slpAkkie)
